@@ -2,7 +2,7 @@
 //
 //                              💝❄D͎A͎R͎K͎  I̟S̟H̟U̟ ❄️💝*
 //
-//                                         Made By  Ishan Sandeepa
+//                                         Made By  Sahan Avishka
 //
 //════════════════════════════//
 
@@ -20,9 +20,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94786746412']
-global.premium = ['94786746412']
-global.ownernomer = '94786746412'
+global.owner = ['94729359255']
+global.premium = ['94729359255']
+global.ownernomer = '94729359255'
 global.ownername = 'Ishan Sandeepa'
 global.botname = 'I Am 💝❄D͎A͎R͎K͎ I̟S̟H̟U̟ ❄️💝'
 global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢.'
